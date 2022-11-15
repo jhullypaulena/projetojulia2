@@ -50,27 +50,25 @@ FARLEY MAGIC<!DOCTYPE html> <head> <style> body { color: white; } </style> </hea
     align-items: flex-end;
     justify-content: space-evenly;
     flex-wrap: wrap;
-}
 
 <flex_item{
-    flex-basis: auto;
-}
-
-/* .item1{
+flex-basis: auto;
+  
+.item1{
     background-color: blue;
-}
+
 .item2{
     background-color: red;
-}
+
 .item3{
     background-color: green;
-}
+
 .item4{
     background-color: yellow;
-}
+
 .item5{
     background-color: black;
-} */
+ */
 
 input{
     height: 70px;
